@@ -3,6 +3,6 @@ return {
     Theme = "Default",
     Title = "Mai Hub",
     Author = "Luna",
-    Transparency = 0.9,
+    SetBackgroundImageTransparency = 0.7,
     Discord = "discord.gg/MaiHub",
 }
