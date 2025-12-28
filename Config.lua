@@ -5,4 +5,5 @@ return {
     Author = "Luna",
     SetBackgroundImageTransparency = 0.7,
     Discord = "discord.gg/MaiHub",
+    Key = "KeyLess"
 }
