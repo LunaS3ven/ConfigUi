@@ -4,6 +4,6 @@ return {
     Title = "Mai Hub",
     Author = "Luna",
     SetBackgroundImageTransparency = 0.7,
-    Discord = "discord.gg/MaiHub",
+    Discord = "https://discord.com/invite/MArH2ZJSt8",
     Key = "KeyLess"
 }
