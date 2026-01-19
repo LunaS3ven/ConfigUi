@@ -5,7 +5,7 @@ return {
     Author = "Luna",
     SetBackgroundImageTransparency = 0.7,
     Discord = "https://discord.com/invite/MArH2ZJSt8",
-    Key = "KeyLess"
+    Key = "KeyLess",
     Admin = {
         "shadowsx170",
         ""
